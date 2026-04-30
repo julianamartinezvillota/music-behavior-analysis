@@ -1,5 +1,4 @@
-🚀 View Notebook: notebooks/listener_behavior_analysis.ipynb
-# music-behavior-analysis
+👉 **[View Full Analysis Notebook](notebooks/listener_behavior_analysis.ipynb)**
 
 🎧 What Makes a Song Successful?
 
